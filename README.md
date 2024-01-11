@@ -178,15 +178,15 @@ python3 bot.py
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To VJ For His Awesome [Media-Search-bot](https://github.com/VJBots)
- - Thanks To [Tech VJ](https://youtube.com/@Tech_VJ)
+ - Thanks To VJ For His Awesome [Media-Search-bot](https://github.com/SMD-BotZ)
+ - Thanks To [SMD_Botz](https://youtube.com)
  - Thanks To LazyDeveloperr for stream feature
  - Thanks To All Everyone In This Journey
 
 ## Note 🏷️
  
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/VJ_Bots)
-* * [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/kingvj01)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/SMD_Botz)
+* * [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/SMD_Owner)
 
 [Note To A So Called Dev](https://telegram.dog/SMD_Botz): 
 
